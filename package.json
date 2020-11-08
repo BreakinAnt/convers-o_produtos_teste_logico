@@ -1,0 +1,15 @@
+{
+  "name": "teste-logica-codeby",
+  "version": "1.0.0",
+  "description": "Esse repositório possui o teste da CodeBy para avaliar as habilidades de lógica do candidato em questão.",
+  "main": "index.js",
+  "repository": "git@github.com:codebyteam/teste-logica.git",
+  "author": "CodeBy <vagas@codeby.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
